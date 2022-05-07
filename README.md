@@ -26,18 +26,14 @@ Note: The first online conference.
 
 Hosted by University of Wisconsin, Madison. [View information](https://seasia.wisc.edu/wp-content/uploads/sites/218/2019/10/Council-on-Thai-Studies-2019-1.pdf)
 
-### 2018
-
-(no information found)
-
-### 2017
-
-(no information found)
-
-### 2016
+### 2016 to 2018
 
 (no information found)
 
 ### 2015
 
 Hosted by Ohio University
+
+### 1972 to 2014
+
+(no information found)
