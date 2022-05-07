@@ -8,13 +8,19 @@ Established in 1972 at Northern Illinois University by Dr. Clark D. Neher and Dr
 
 Host by University of Wisconsin, Madison. [View announcement](https://seasia.wisc.edu/cots-conference-announcement/)
 
+Note: This is the 50th anniversary of the conference.
+
 ### 2021
 
 Hosted by Ohio University. [Visit website](https://www.ohio.edu/cis/council-on-thai-studies)
 
+Tools are open-source, and can be view at [https://github.com/cots-conf](https://github.com/cots-conf)
+
 ### 2020
 
 Hosted by Northern Illinois University. [Visit website](https://www.niu.edu/cots/council/index.shtml)
+
+Note: The first online conference.
 
 ### 2019
 
