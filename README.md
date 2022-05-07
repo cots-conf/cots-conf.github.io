@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+# Council on Thai Studies (COTS)
 
-You can use the [editor on GitHub](https://github.com/cots-conf/cots-conf.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Established in 1972 at Northern Illinois University by Dr. Clark D. Neher and Dr. Ladd Thomas, COTS was conceived as a kind of laboratory in which scholars, students and practitioners engaged in the study of Thailand could assemble to exchange ideas, share their research, and test the validity of their contentions and approaches to understanding Thailand.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Past Conferences
 
-### Markdown
+### 2022
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Host by University of Wisconsin, Madison. [View announcement](https://seasia.wisc.edu/cots-conference-announcement/)
 
-```markdown
-Syntax highlighted code block
+### 2021
 
-# Header 1
-## Header 2
-### Header 3
+Hosted by Ohio University. [Visit website](https://www.ohio.edu/cis/council-on-thai-studies)
 
-- Bulleted
-- List
+### 2020
 
-1. Numbered
-2. List
+Hosted by Northern Illinois University. [Visit website](https://www.niu.edu/cots/council/index.shtml)
 
-**Bold** and _Italic_ and `Code` text
+### 2019
 
-[Link](url) and ![Image](src)
-```
+Hosted by University of Wisconsin, Madison. [View information](https://seasia.wisc.edu/wp-content/uploads/sites/218/2019/10/Council-on-Thai-Studies-2019-1.pdf)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### 2018
 
-### Jekyll Themes
+(no information found)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cots-conf/cots-conf.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 2017
 
-### Support or Contact
+(no information found)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 2016
+
+(no information found)
+
+### 2015
+
+Hosted by Ohio University
