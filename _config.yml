@@ -1,2 +1,4 @@
-theme: jekyll-theme-cayman
 title: Council on Thai Studies (COTS)
+google_analytics: G-HJ57VMT711
+plugins:
+  - jekyll-seo-tag

@@ -1,4 +1,8 @@
-# Council on Thai Studies (COTS)
+---
+layout: default
+title: Council on Thai Studies (COTS)
+description:
+---
 
 Established in 1972 at Northern Illinois University by Dr. Clark D. Neher and Dr. Ladd Thomas, COTS was conceived as a kind of laboratory in which scholars, students and practitioners engaged in the study of Thailand could assemble to exchange ideas, share their research, and test the validity of their contentions and approaches to understanding Thailand.
 
