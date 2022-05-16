@@ -8,6 +8,8 @@ Established in 1972 at Northern Illinois University by Dr. Clark D. Neher and Dr
 
 ## Upcoming conference (2022)
 
+**Submission Deadline**: July 1, 2022 **Conference Dates**: October  21-23, 2022
+
 Host by University of Wisconsin, Madison. [View the announcement](https://seasia.wisc.edu/cots-conference-announcement/)
 
 Note: This is the 50th anniversary of the conference.
